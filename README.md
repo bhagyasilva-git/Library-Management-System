@@ -1,18 +1,14 @@
+**Library Management System**
 
+**Project Overview**
 
----
-
-# Library Management System
-
-## Project Overview
-
-This project is a **Java-based Library Management System** designed to support the management of library items such as **Books, DVDs, and Magazines**. The system provides both a **console-based menu** and an **AWT and Swing-based graphical user interface (GUI)**, offering a structured and user-friendly way to interact with library data.
+This project is a Java-based Library Management System designed to support the management of library items such as Books, DVDs, and Magazines. The system provides both a console-based menu and an AWT and Swing-based graphical user interface (GUI), offering a structured and user-friendly way to interact with library data.
 
 The application demonstrates the practical use of **Object-Oriented Programming (OOP)** principles and is developed as part of a lab-based practical assessment.
 
----
 
-## Features
+
+**Features**
 
 * Add new library items (Books, DVDs, Magazines)
 * Display all stored items via the console
@@ -20,9 +16,7 @@ The application demonstrates the practical use of **Object-Oriented Programming 
 * Graphical user interface for visualizing all library items
 * GUI “Info” button displaying statistics:
 
----
-
-## Technology Stack
+**Technology Stack**
 
 | Tool                 | Details       |
 | -------------------- | ------------- |
@@ -32,12 +26,10 @@ The application demonstrates the practical use of **Object-Oriented Programming 
 | IDE                  | IntelliJ IDEA |
 | Build Tool           | Maven         |
 
----
-
-## How to Run the Project
+**How to Run the Project**
 
 1. Clone or download the repository.
-2. Open the project in **IntelliJ IDEA**.
+2. Open the project in IntelliJ IDEA.
 3. Locate and run `LibraryCentre_MockLabBasedPractical.java`.
 4. Use the console menu options:
 
@@ -46,9 +38,7 @@ The application demonstrates the practical use of **Object-Oriented Programming 
    * Enter `2` to display all items in the console
    * Enter `3` to launch the GUI
 
----
-
-## Object-Oriented Programming Concepts Applied
+**Object-Oriented Programming Concepts Applied**
 
 * Inheritance
 * Encapsulation
@@ -60,12 +50,8 @@ The application demonstrates the practical use of **Object-Oriented Programming 
 * GUI Integration
 * Unit Testing with JUnit
 
----
-
-## Output Description
+**Output Description**
 
 When the application is executed, a console menu titled **“WESTMINSTER LIBRARY MANAGER CONSOLE MENU”** is displayed. Users can manage library items via the console or open the GUI to visualize all stored items in a table format. The GUI also provides summary statistics through the Info button.
 
----
-
-This project demonstrates a complete end-to-end implementation of a library management system using Java and OOP best practices.
+**This project demonstrates a complete end-to-end implementation of a library management system using Java and OOP best practices.**
