@@ -16,7 +16,7 @@ This system allows a librarian to manage library items (Books, DVDs, Magazines) 
 | Tool | Details |
 |------|---------|
 | Language | Java |
-| GUI | AWT Swing |
+| GUI | AWT, Swing |
 | Testing | JUnit |
 | IDE | IntelliJ IDEA |
 
