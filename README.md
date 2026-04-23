@@ -1,6 +1,6 @@
 # Westminster Library Management System
 
-This system allows a librarian to manage library items (Books, DVDs, Magazines) through both a **console menu** and a **Swing-based GUI**, providing a structured and user-friendly experience.
+This system allows a librarian to manage library items (Books, DVDs, Magazines) through both a **console menu** and a **AWT and Swing-based GUI**, providing a structured and user-friendly experience.
 
 ---
 
