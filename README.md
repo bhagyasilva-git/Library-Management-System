@@ -1,10 +1,5 @@
 # Westminster Library Management System
 
-A Java-based Library Management System built to demonstrate core **Object-Oriented Programming** principles including inheritance, encapsulation, polymorphism, and interfaces.
-
----
-
-## Overview
 This system allows a librarian to manage library items (Books, DVDs, Magazines) through both a **console menu** and a **Swing-based GUI**, providing a structured and user-friendly experience.
 
 ---
